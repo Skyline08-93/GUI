@@ -1,1 +1,1 @@
-worker: python3 GUI-panel.py
+worker: python3 Triange_bot.py
